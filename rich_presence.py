@@ -13,4 +13,4 @@ rpc.update(
 
 print("Rich Presence for Richard Burn Rally activated. Ctrl+C to quit.")
 while True:
-    time.sleep(15)
+    time.sleep(60)
