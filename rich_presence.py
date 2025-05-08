@@ -25,7 +25,7 @@ states = [
     "Taking on gravel like a pro",
     "Hoping the handbrake holds up",
     "One more corner... or maybe not",
-    "Flat-out into the unknown",
+    "Flat-Out into the unknown",
 ]
 
 start_time = time.time()
