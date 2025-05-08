@@ -7,10 +7,10 @@ rpc = Presence(CLIENT_ID)
 rpc.connect()
 
 states = [
-    "Samir hits another tree, again !",
+    "Samir hits another tree, again!",
     "Full throttle",
-    "When in doubt, go Flat-Out !",
-    "Flat-Out !",
+    "When in doubt, go Flat-Out!",
+    "Flat-Out!",
     "Not listening to the calls",
     "Breaking the car",
     "Hoping the car survives",
@@ -19,7 +19,7 @@ states = [
     "In the air, again...",
     "The road? What road?",
     "Too much speed, not enough grip",
-    "The co-driver says left 4, it was a left 2...'",
+    "The co-driver says left 4, it was a left 2...",
     "It's not crashing, it's creative driving",
     "That was supposed to be a drift",
     "Taking on gravel like a pro",
