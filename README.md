@@ -1,6 +1,6 @@
 # Richard Burns Rally - Rich Presence
 
-This is a simple script to activate **Rich Presence** for the game **Richard Burns Rally (Rallysimfans)** using the [pypresence](https://github.com/qwertyquerty/pypresence) library.
+This is a simple script to activate **Rich Presence** for the game **Richard Burns Rally (Rallysimfans)** using the [pypresence](https://github.com/qwertyquerty/pypresence) library. Run the .bat file as admin when you start your game.
 
 ## Requirements
 
